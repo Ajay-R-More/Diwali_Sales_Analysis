@@ -40,6 +40,30 @@
 
   From above graphs we can see that most of the buyers are married (women) and they have high purchasing power
 
+### Occupation:
+
+  ![image](https://github.com/user-attachments/assets/eb04bc28-1d11-4e34-a800-c6aa65c9da16)
+
+  ![image](https://github.com/user-attachments/assets/cf4aa2ce-8730-4b1e-b15e-9a03a19866c6)
+
+  From above graphs we can see that most of the buyers are working in IT, Healthcare and Aviation sector
+
+### Product Category:
+
+  ![image](https://github.com/user-attachments/assets/1b7c0124-2572-47a2-af37-d04044bee38a)
+
+  From above graphs we can see that most of the sold products are from Food, Clothing and Electronics category
+
+### Top 10 Products:
+
+  ![image](https://github.com/user-attachments/assets/8dca32be-9828-44f7-9f6e-18791f94515a)
+
+## Conclusion:
+Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
+
+
+
+
 
 
   
